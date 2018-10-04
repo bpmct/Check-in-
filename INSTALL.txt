@@ -1,0 +1,11 @@
+Hi,
+
+Thank you for using my check in PHP script. Sadly it doesn't automatically work when uploaded. Follow these steps to get it working:
+
+1. Create a MySQL database for the check in script
+
+2. Import the tables using the .sql file included. (database.sql) You can use phpMyAdmin to do this.
+
+3. Configure the database info and name of the script in config.php
+
+4. You're done!
