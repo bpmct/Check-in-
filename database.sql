@@ -31,6 +31,7 @@ CREATE TABLE IF NOT EXISTS `records` (
   `ID` text NOT NULL,
   `Time` text NOT NULL,
   `Type` text NOT NULL
+  `Reason` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
